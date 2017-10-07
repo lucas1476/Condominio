@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<title>Trabalho de Aplicações</title>
+	<style>
+		#formu{
+			width: 700px;
+			height: 500px;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			margin-top: -250px;
+			margin-left: -350px; 
+			background: lightgrey;
+			border-radius: 5px;
+			box-shadow: 13px 13px 20px darkslategrey;
+		}
+		fieldset{
+			width: 70%;
+			height: 400px;
+			position: relative;
+			top: 30px;
+			left: 13%;
+		}
+		#bt{
+			width: 100px;
+			height: 40px;
+			position: absolute;
+			top: 89%;
+			left: 79%;
+		}
+		#bt:hover{
+			background: #00ff55;
+			border: green solid 1px;
+		}
+	</style>
+</head>
+<body>
+	<div id="formu">
+		<form action="#" method="get">
+			<fieldset>
+				<legend>Formulario Genêrico</legend>
+				<label for="">Nome</label>
+				<input type="text" id="nome" required>
+				<label for="">Sobrenome</label>
+				<input type="text" id="sobrenome" required>
+				<br><br>
+				<label for="">CPF</label>
+				<input type="text" id="cpf" required>
+				<br>
+				<p style="display: none;" id="erro">você não digito nada</p>
+				<input type="submit" value="Testar" onclick="error();" id="bt">
+			</fieldset>
+		</form>
+	</div>
+</body>
+	<script>
+		function error(){
+			var nome = document.getElementById('nome').value;
+			if (nome == ''){
+				document.getElementById('erro').innerHTML = 'Você não digitou nada.';
+				document.getElementById('erro').style = 'display: block;  color:red;'
+				document.getElementById('bt').style = 'background:#ff3333 ; border: red solid 1px;'
+			}
+			else{
+				document.getElementById('erro').innerHTML = 'Você digitou os dados corretamente ';
+				document.getElementById('erro').style = 'display: block;  color:green;'
+				document.getElementById('bt').style = 'background:#00ff55 ; border: green solid 1px;'
+			}
+			
+		}
+
+	</script>
+</html>
