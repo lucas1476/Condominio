@@ -1,0 +1,250 @@
+80001-970,  Rua XV de Novembro 700 - Centro - Curitiba - PR
+80002-900,  Rua João Negrão 1251 - Rebouças - Curitiba - PR
+80010-000,  José Loureiro - Centro - Curitiba - PR
+80010-010,  Marechal Deodoro - Centro - Curitiba - PR
+80010-020,  Pedro Ivo - Centro - Curitiba - PR
+80010-030,  Rui Barbosa - Centro - Curitiba - PR
+80010-040,  Alfredo Parodi - Centro - Curitiba - PR
+80010-050,  Emiliano Perneta - Centro - Curitiba - PR
+80010-060,  Jesuíno Marcondes - Centro - Curitiba - PR
+80010-070, Senador Alencar Guimarães - Centro - Curitiba - PR
+80010-080,  André de Barros - Centro - Curitiba - PR
+80010-090,  Frei Caneca - Centro - Curitiba - PR
+80010-100,  Visconde de Guarapuava - Centro - Curitiba - PR
+80010-110,  Desembargador Westphalen - Centro - Curitiba - PR
+80010-120,  Doutor Muricy - Centro - Curitiba - PR
+80010-130,  Marechal Floriano Peixoto - Centro - Curitiba - PR
+80010-140,  Carlos Gomes - Centro - Curitiba - PR
+80010-150,  Monsenhor Celso - Centro - Curitiba - PR
+80010-160,  Lourenço Pinto - Centro - Curitiba - PR
+80010-170,  Eufrásio Correia - Centro - Curitiba - PR
+80010-180,  Barão do Rio Branco - Centro - Curitiba - PR
+80010-190,  da Lapa - Centro - Curitiba - PR
+80010-200,  João Negrão - Centro - Curitiba - PR
+80010-210,  Senador Correia - Centro - Curitiba - PR
+80010-901,  Rua Barão do Rio Branco 182 - Centro - Curitiba - PR
+80010-902,  Rua Barão do Rio Branco, s/n - Centro - Curitiba - PR
+80010-921,  Rua Monsenhor Celso 219 - Centro - Curitiba - PR
+80010-924,  Rua José Loureiro 574 - Centro - Curitiba - PR
+80010-970,  Rua Marechal Deodoro 298 - Centro - Curitiba - PR
+80010-971,  Rua Marechal Deodoro 298 Subsolo Anexo CDD - Centro - Curitiba - PR
+80010-981,  Rua André de Barros 90/100 - Centro - Curitiba - PR
+80011-970,  Rua Marechal Deodoro 298 - Centro - Curitiba - PR
+80012-970,  Rua Marechal Deodoro 298 - Centro - Curitiba - PR
+80020-000,  Voluntários da Pátria - Centro - Curitiba - PR
+80020-010,  General Osório - Centro - Curitiba - PR
+80020-020,  Luiz Xavier - Centro - Curitiba - PR
+80020-030,  Oliveira Bello - Centro - Curitiba - PR
+80020-040,  Doutor Muricy - Centro - Curitiba - PR
+80020-050,  Cândido de Leão - Centro - Curitiba - PR
+80020-060,  Candido Lopes - Centro - Curitiba - PR
+80020-070,  Frederico Faria de Oliveira - Centro - Curitiba - PR
+80020-080,  Zacarias - Centro - Curitiba - PR
+80020-090,  Marechal Floriano Peixoto - Centro - Curitiba - PR
+80020-100,  Tiradentes - Centro - Curitiba - PR
+80020-110,  do Rosário - Centro - Curitiba - PR
+80020-120,  Nestor de Castro - Centro - Curitiba - PR
+80020-130,  José Bonifácio - Centro - Curitiba - PR
+80020-140,  Júlio Moreira - Centro - Curitiba - PR
+80020-150,  Coronel Enéas - São Francisco - Curitiba - PR
+80020-160  Padre Júlio de Campos - Centro - Curitiba - PR
+80020-170  Doutor Claudino dos Santos - São Francisco - Curitiba - PR
+80020-180  Barão do Serro Azul - Centro - Curitiba - PR
+80020-190  São Francisco - Centro - Curitiba - PR
+80020-200  Prefeito João Moreira Garcez - Centro - Curitiba - PR
+80020-210  Tobias de Macedo - Centro - Curitiba - PR
+80020-220  José Borges de Macedo - Centro - Curitiba - PR
+80020-230  Generoso Marques - Centro - Curitiba - PR
+80020-240  Alfredo Bufren - Centro - Curitiba - PR
+80020-250  Riachuelo - Centro - Curitiba - PR
+80020-260  Dezenove de Dezembro - Centro - Curitiba - PR
+80020-270  Treze de Maio - Centro - Curitiba - PR
+80020-280  Presidente Carlos Cavalcanti - Centro - Curitiba - PR
+80020-290  Presidente Faria - Centro - Curitiba - PR
+80020-300  Santos Andrade - Centro - Curitiba - PR
+80020-310  XV de Novembro - Centro - Curitiba - PR
+80020-320  Marechal Deodoro - Centro - Curitiba - PR
+80020-330  Passeio Público - Centro - Curitiba - PR
+80020-340  Pinheiro Lima - Centro - Curitiba - PR
+80020-911  Rua Marechal Deodoro 555 - Centro - Curitiba - PR
+80020-914  Avenida Marechal Floriano Peixoto 96 - Centro - Curitiba - PR
+80020-924  Rua XV de Novembro 620 - Centro - Curitiba - PR
+80020-925  Rua XV de Novembro 621 - Centro - Curitiba - PR
+80020-933  Rua Prefeito João Moreira Garcez 165 - Centro - Curitiba - PR
+80020-937  Praça Generoso Marques 27 - Centro - Curitiba - PR
+80020-981  Rua Prefeito João Moreira Garcez 92 - Centro - Curitiba - PR
+80020-982  Rua Emiliano Perneta 288 Lojas 06 e 07 - Centro - Curitiba - PR
+80021-980  Avenida Luiz Xavier 103 - Centro - Curitiba - PR
+80030-000  João Gualberto - Alto da Glória - Curitiba - PR
+80030-001  João Gualberto - Juvevê - Curitiba - PR
+80030-010  Luiz Leão - Centro - Curitiba - PR
+80030-020  Gibran Khalil Gibran - Centro Cívico - Curitiba - PR
+80030-030  Heitor Stockler de Franca - Centro Cívico - Curitiba - PR
+80030-040  José Knopfholz - Centro Cívico - Curitiba - PR
+80030-050  Ary Camargo Queiroz - Centro Cívico - Curitiba - PR
+80030-060  da Glória - Centro Cívico - Curitiba - PR
+80030-070  Comendador Fontana - Centro Cívico - Curitiba - PR
+80030-080  Itália - Alto da Glória - Curitiba - PR
+80030-090  Rui Leão - Alto da Glória - Curitiba - PR
+80030-100  Padre Antônio - Centro - Curitiba - PR
+80030-110  Agostinho Leão Júnior - Centro - Curitiba - PR
+80030-120  Gottlieb Müeller - Alto da Glória - Curitiba - PR
+80030-130  Carlos Eduardo Leão - Alto da Glória - Curitiba - PR
+80030-140  Maria Clara - Alto da Glória - Curitiba - PR
+80030-150  Luthero - Alto da Glória - Curitiba - PR
+80030-152  da Avenida João Gualberto - Alto da Glória - Curitiba - PR
+80030-160  Goethe - Alto da Glória - Curitiba - PR
+80030-170  Portugal - Alto da Glória - Curitiba - PR
+80030-180  Ivo Leão - Alto da Glória - Curitiba - PR
+80030-182  Engenheiro Raul Iwersen - Alto da Glória - Curitiba - PR
+80030-190  José do Patrocínio - Alto da Glória - Curitiba - PR
+80030-200  Mauá - Alto da Glória - Curitiba - PR
+80030-210  Tertuliano Müller - Alto da Glória - Curitiba - PR
+80030-220  Amâncio Moro - Alto da Glória - Curitiba - PR
+80030-230  Campos Sales - Alto da Glória - Curitiba - PR
+80030-232  Else Schiller Otte - Alto da Glória - Curitiba - PR
+80030-240  Augusto Severo - Alto da Glória - Curitiba - PR
+80030-250  Pedro Rolim de Moura - Alto da Glória - Curitiba - PR
+80030-260  Simão Bolivar - Alto da Glória - Curitiba - PR
+80030-270  Paraguassu - Alto da Glória - Curitiba - PR
+80030-280  Alberto Bolliger - Juvevê - Curitiba - PR
+80030-285  Campos Sales - Ahú - Curitiba - PR
+80030-290  Doutor Goulin - Alto da Glória - Curitiba - PR
+80030-300  Cândido Mader - Juvevê - Curitiba - PR
+80030-310  Barão de Guaraúna - Alto da Glória - Curitiba - PR
+80030-320  Doutor Zamenhof - Alto da Glória - Curitiba - PR
+80030-330  Nicolau Maeder - Alto da Glória - Curitiba - PR
+80030-340  Augusto Stresser - Alto da Glória - Curitiba - PR
+80030-360  Constantino Marochi - Alto da Glória - Curitiba - PR
+80030-370  Machado de Assis - Juvevê - Curitiba - PR
+80030-376  Campos Sales - Juvevê - Curitiba - PR
+80030-378  Campos Sales - Juvevê - Curitiba - PR
+80030-380  Cambará - Juvevê - Curitiba - PR
+80030-390  Rocha Pombo - Juvevê - Curitiba - PR
+80030-400  Barão dos Campos Gerais - Juvevê - Curitiba - PR
+80030-402  Vivian Calopreso Braga - Juvevê - Curitiba - PR
+80030-410  Moyses Marcondes - Juvevê - Curitiba - PR
+80030-415  Mário Bandeira Rocha - Juvevê - Curitiba - PR
+80030-420  Guarda-Mor Lustosa - Juvevê - Curitiba - PR
+80030-430  Elbe Pospissil - Juvevê - Curitiba - PR
+80030-440  Manoel Eufrásio - Juvevê - Curitiba - PR
+80030-450  Paul Harris - Juvevê - Curitiba - PR
+80030-460  Doutor Flávio Luz - Juvevê - Curitiba - PR
+80030-462  Padre Bonifácio Kleinpass - Juvevê - Curitiba - PR
+80030-470  São Vicente - Juvevê - Curitiba - PR
+80030-475  Munhoz da Rocha - Juvevê - Curitiba - PR
+80030-480  São Paulo da Cruz - Juvevê - Curitiba - PR
+80030-510  Melchíades Fangueiro - Juvevê - Curitiba - PR
+80030-530  José de Oliveira Rocha - Juvevê - Curitiba - PR
+80030-900  Avenida João Gualberto 530 - Centro - Curitiba - PR
+80030-901  Rua Mauá 920 - Alto da Glória - Curitiba - PR
+80030-970  Avenida João Gualberto 1664 - Juvevê - Curitiba - PR
+80030-980  Rua Campos Sales 623 - Juvevê - Curitiba - PR
+80035-000  Munhoz da Rocha - Cabral - Curitiba - PR
+80035-010  Bom Jesus - Juvevê - Curitiba - PR
+80035-015  Guilherme Ronconi - Juvevê - Curitiba - PR
+80035-020  São Pedro - Cabral - Curitiba - PR
+80035-030  Doutor Manoel Pedro - Cabral - Curitiba - PR
+80035-040  Chichorro Júnior - Cabral - Curitiba - PR
+80035-050  dos Funcionários - Cabral - Curitiba - PR
+80035-060  João Américo de Oliveira - Cabral - Curitiba - PR
+80035-070  Alfredo Wenske - Cabral - Curitiba - PR
+80035-080  Clóvis Beviláqua - Cabral - Curitiba - PR
+80035-090  Quintino Bocaiúva - Cabral - Curitiba - PR
+80035-100  Professor Arthur Loyola - Cabral - Curitiba - PR
+80035-110  Recife - Cabral - Curitiba - PR
+80035-120  Deputado Joaquim José Pedrosa - Cabral - Curitiba - PR
+80035-130  Paraná - Cabral - Curitiba - PR
+80035-140  São Luiz - Cabral - Curitiba - PR
+80035-142  Coronel Elísio da Costa Marques - Cabral - Curitiba - PR
+80035-150  Coronel João de Alencar Guimarães Filho - Cabral - Curitiba - PR
+80035-160  dos Passionistas - Cabral - Curitiba - PR
+80035-170  Belém - Cabral - Curitiba - PR
+80035-180  Vereador Garcia Rodrigues Velho - Cabral - Curitiba - PR
+80035-190  da Suíça - Cabral - Curitiba - PR
+80035-200  Graciosa - Cabral - Curitiba - PR
+80035-210  Vereador Antônio dos Reis Cavalheiro - Cabral - Curitiba - PR
+80035-215  Felipe Nievola - Cabral - Curitiba - PR
+80035-220  Campinas - Cabral - Curitiba - PR
+80035-230  Coronel Amazonas Marcondes - Cabral - Curitiba - PR
+80035-232  Santo Afonso de Ligório - Cabral - Curitiba - PR
+80035-235  Rodolpho Rosenau - Cabral - Curitiba - PR
+80035-240  Vitória - Cabral - Curitiba - PR
+80035-250  Pedro Fabri - Cabral - Curitiba - PR
+80035-260  Abílio Peixoto - Cabral - Curitiba - PR
+80035-270  da Bandeira - Cabral - Curitiba - PR
+80035-280  Cabral - Cabral - Curitiba - PR
+80035-290  Reinaldo Egon Heidinger - Cabral - Curitiba - PR
+80035-300  Major Idegaldo Coutinho Bacci - Cabral - Curitiba - PR
+80035-320  Nilseu Brock - Cabral - Curitiba - PR
+80035-330  Luciano Cardinale - Cabral - Curitiba - PR
+80035-340  Alfredo Gulin - Cabral - Curitiba - PR
+80040-070  José de Alencar - Juvevê - Curitiba - PR
+80040-080  Isaac Milder - Juvevê - Curitiba - PR
+80040-090  Brigadeiro-do-Ar Mário Calmon Eppinghaus - Juvevê - Curitiba - PR
+80040-100  Machado de Assis - Juvevê - Curitiba - PR
+80040-105  Jornalista Samuel Guimarães da Costa - Juvevê - Curitiba - PR
+80040-110  Almirante Tamandaré - Juvevê - Curitiba - PR
+80040-120  Sete de Abril - Juvevê - Curitiba - PR
+80040-130  Conselheiro Carrão - Juvevê - Curitiba - PR
+80040-132  Atílio Bório - Juvevê - Curitiba - PR
+80040-134  Itupava - Juvevê - Curitiba - PR
+80040-140  Simão Bolivar - Juvevê - Curitiba - PR
+80040-150  Humberto Carta - Hugo Lange - Curitiba - PR
+80040-160  Schiller - Hugo Lange - Curitiba - PR
+80040-170  Padre Germano Mayer - Hugo Lange - Curitiba - PR
+80040-180  Camões - Hugo Lange - Curitiba - PR
+80040-190  Desembargador Acyr Saldanha Loyola - Hugo Lange - Curitiba - PR
+80040-250  Professor Duílio Aníbal Calderari - Hugo Lange - Curitiba - PR
+80040-252  Prefeito Ângelo Ferrário Lopes - Hugo Lange - Curitiba - PR
+80040-260  Valdivia - Hugo Lange - Curitiba - PR
+80040-265  Nossa Senhora da Luz - Hugo Lange - Curitiba - PR
+80040-270  Coronel Napoleão Marcondes Franca - Hugo Lange - Curitiba - PR
+80040-280  Doutor Goulin - Juvevê - Curitiba - PR
+80040-285  Rui Castro dos Santos - Juvevê - Curitiba - PR
+80040-290  João Max Rosener - Hugo Lange - Curitiba - PR
+80040-300  Santa Filomena - Hugo Lange - Curitiba - PR
+80040-310  Augusto Stresser - Juvevê - Curitiba - PR
+80040-320  Deputado Carneiro de Campos - Hugo Lange - Curitiba - PR
+80040-330  João David Perneta - Hugo Lange - Curitiba - PR
+80040-340  Jaime Balão - Hugo Lange - Curitiba - PR
+80040-345  Augusto Stresser - Hugo Lange - Curitiba - PR
+80040-350  Menezes Dória - Hugo Lange - Curitiba - PR
+80040-352  João Américo de Oliveira - Hugo Lange - Curitiba - PR
+80040-360  Berel Brik - Hugo Lange - Curitiba - PR
+80040-370  Soroptimismo Internacional - Hugo Lange - Curitiba - PR
+80040-380  Aramis Taborda Athayde - Hugo Lange - Curitiba - PR
+80040-390  Victo Pavim Johnsson - Hugo Lange - Curitiba - PR
+80040-400  Poeta Leonardo Henke - Hugo Lange - Curitiba - PR
+80040-410  Maria Philomena de Luca Mondrone - Hugo Lange - Curitiba - PR
+80040-420  Airton Sozzi - Hugo Lange - Curitiba - PR
+80040-430  Adelina Dutra Sanson - Hugo Lange - Curitiba - PR
+80040-440  Professor Oswaldo Dória - Hugo Lange - Curitiba - PR
+80040-445  Atílio Bório - Hugo Lange - Curitiba - PR
+80040-450  Fernandes de Barros - Hugo Lange - Curitiba - PR
+80040-452  Presidente Rodrigo Otávio - Hugo Lange - Curitiba - PR
+80040-455  Itupava - Hugo Lange - Curitiba - PR
+80040-460,  Flávio Dallegrave, Hugo Lange - Curitiba - PR
+80040-981,  Rua Augusto Stresser 1184 - Juvevê - Curitiba - PR
+80045-000,  Sete de Setembro - Alto da Rua XV - Curitiba - PR
+80045-010,  do Herval - Alto da Rua XV - Curitiba - PR
+80045-020,  Tenente Ernâni Vidal - Alto da Rua XV - Curitiba - PR
+80045-030,  Visconde de Guarapuava - Alto da Rua XV - Curitiba - PR
+80045-040,  Natálio Santos - Alto da Rua XV - Curitiba - PR
+80045-050,  Desembargador Zeferino Krukoski - Alto da Rua XV - Curitiba - PR
+80045-060,  Senador Souza Naves - Alto da Rua XV - Curitiba - PR
+80045-070,  Reinaldino Schaffenberg de Quadros - Alto da Rua XV - Curitiba - PR
+80045-080,  Fernando Amaro - Alto da Rua XV - Curitiba - PR
+80045-090,  Marechal Deodoro - Alto da Rua XV - Curitiba - PR
+80045-100,  Ubaldino do Amaral - Alto da Rua XV - Curitiba - PR
+80045-105,  Sete de Abril - Alto da Rua XV - Curitiba - PR
+80045-110,  Almirante Tamandaré - Alto da Rua XV - Curitiba - PR
+80045-115,  José de Alencar - Alto da Rua XV - Curitiba - PR
+80045-120,  Atílio Bório - Alto da Rua XV - Curitiba - PR
+80045-125,  XV de Novembro - Alto da Rua XV - Curitiba - PR
+80045-130,  Dias da Rocha Filho - Alto da Rua XV - Curitiba - PR
+80045-135,  Professor Brandão - Alto da Rua XV - Curitiba - PR
+80045-140,  Itupava - Alto da Rua XV - Curitiba - PR
+80045-145,  João Prosdócimo - Alto da Rua XV - Curitiba - PR
+80045-150,  Ubaldino do Amaral - Alto da Rua XV - Curitiba - PR
+80045-155,  Amintas de Barros - Alto da Rua XV - Curitiba - PR
