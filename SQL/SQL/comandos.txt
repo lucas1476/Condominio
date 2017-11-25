@@ -1,0 +1,93 @@
+create database cadastro
+default character set utf8
+default collate utf8_general_ci;
+
+create table unidade (
+id_unidade int not null auto_increment,
+tel varchar(15) not null,
+bloco int,
+apartamento varchar(3),
+primary key(id_unidade)
+)default charset = utf8;
+
+create table visitante (
+id int not null auto_increment,
+nome varchar(50) not null,
+cpf varchar(14) not null,
+tel varchar(15) not null,
+placa varchar(9),
+modelo_car varchar(30),
+data_chegada date not null,
+adultos int,
+menor18 int,
+unidade_trabalho int,
+obs varchar(250),
+primary key(id),
+foreign key(unidade_trabalho)
+references unidade(id_unidade)
+)default charset = utf8;
+
+create table funcionario (
+id_func int not null auto_increment,
+nome varchar(50) not null,
+cpf varchar(14) not null,
+tel varchar(15) not null,
+cep varchar(10),
+rua varchar(30),
+bairro varchar(30),
+n_casa int,
+cidade varchar(30),
+estado varchar(30),
+unidade_trabalho int,
+nascimento date not null,
+primary key(id_func),
+foreign key(unidade_trabalho)
+references unidade(id_unidade)
+)default charset = utf8;
+
+create table veiculo (
+id_veiculo int not null auto_increment,
+placa varchar(9) not null,
+tipo_veiculo enum('carro','moto'),
+fabricante varchar(20),
+modelo varchar(20),
+cor varchar(3),
+ano date,
+primary key(id_veiculo)
+)default charset = utf8;
+
+create table morador (
+id_morador int not null auto_increment,
+nome varchar(50) not null,
+cpf varchar(14) not null,
+tel varchar(15) not null,
+bloco int,
+apartamento varchar(3),
+unidade_morador int,
+veiculo_morador int,
+data_mudanca date not null,
+primary key(id_morador),
+foreign key(unidade_morador)
+references unidade(id_unidade),
+foreign key(veiculo_morador)
+references veiculo(id_veiculo)
+)default charset = utf8;
+
+
+create table reservas (
+id_reserva int not null auto_increment,
+nome varchar(50) not null,
+cpf varchar(14) not null,
+tel varchar(15) not null,
+bloco int,
+apartamento varchar(3),
+data_evento date not null,
+obs_evento varchar(250),
+primary key(id_reserva)
+)default charset = utf8;
+
+
+
+
+
+
